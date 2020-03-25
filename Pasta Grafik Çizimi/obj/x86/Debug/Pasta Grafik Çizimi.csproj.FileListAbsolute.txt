@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\bin\Debug\Pasta Grafik Çizimi.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\bin\Debug\Pasta Grafik Çizimi.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\obj\x86\Debug\Pasta_Grafik_Çizimi.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\obj\x86\Debug\Pasta_Grafik_Çizimi.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Pasta Grafik Çizimi\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\bin\Debug\Pasta Grafik Çizimi.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\bin\Debug\Pasta Grafik Çizimi.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\obj\x86\Debug\Pasta_Grafik_Çizimi.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\obj\x86\Debug\Pasta_Grafik_Çizimi.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROJELER 2\GÖRSEL PROGRAMLAMA\Ö-S\1 PASTA GRAFİK ÇİZİMİ\Pasta Grafik Çizimi\obj\x86\Debug\Pasta Grafik Çizimi.csproj.GenerateResource.Cache
